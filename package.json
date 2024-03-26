@@ -4,7 +4,7 @@
   "description": "Binar Car Rental using Tailwind CSS",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss -i styles.css -o public/styles.css --watch"
+    "build-css": "tailwindcss -i src/styles.css -o styles.css --watch"
   },
   "author": "riyandidjohari",
   "license": "ISC",
