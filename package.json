@@ -1,0 +1,17 @@
+{
+  "name": "binar-car-rental---tailwind",
+  "version": "1.0.0",
+  "description": "Binar Car Rental using Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss -i src/styles.css -o public/styles.css --watch"
+  },
+  "author": "riyandidjohari",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "flowbite": "^2.3.0"
+  }
+}
